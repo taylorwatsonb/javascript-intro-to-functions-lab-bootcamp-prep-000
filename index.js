@@ -26,3 +26,7 @@ logShout("hello")
 sayHiToGrandma("HELLO");
 sayHiToGrandma("I love you, Grandma.");
 
+shout("hello");
+ function logShout(string){
+  return console.log(string.toUpperCase())
+}

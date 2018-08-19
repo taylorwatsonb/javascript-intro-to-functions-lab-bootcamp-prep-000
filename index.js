@@ -8,5 +8,6 @@ function whisper(string)
  }
  function shout (string)
  {
-   console.log()
+   console.log("HELLO!")
+   return string.toUpperCase()
  }
